@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ArduJimmy
-- 👀 I’m interested in C++ and Robotic Programming
-- 🌱 I’m currently learning both of them
+Our Official Youtube Channel:
+https://www.youtube.com/@ardujimmy
 
 <!---
 ArduJimmy/ArduJimmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
