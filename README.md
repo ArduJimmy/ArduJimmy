@@ -1,5 +1,4 @@
-Our Official Youtube Channel:
-https://www.youtube.com/@ardujimmy
+<p>Please support us by subcribing and sharing Our Official Youtube Channel: <a href="https://www.youtube.com/@ardujimmy">https://www.youtube.com/@ardujimmy</a></p>
 
 <!---
 ArduJimmy/ArduJimmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
